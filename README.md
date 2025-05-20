@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner LabCE6.jpg" alt="Laboratório.CE Banner" style="border-radius: 10px;" />
+  <img src="assets/Banner-LabCE6.jpg" alt="Laboratório.CE Banner" style="border-radius: 10px;" />
 </p>
 
 <p align="left">
