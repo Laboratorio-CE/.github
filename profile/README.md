@@ -83,5 +83,5 @@ Aqui, cada projeto é uma experiência de aprendizado, prototipagem e evolução
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Boas-vindas%20ao%20Laborat%C3%B3rio&fontSize=25&fontColor=ffffff" alt="footer banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Boas-vindas%20ao%20Laborat%C3%B3rio!&fontSize=25&fontColor=ffffff" alt="footer banner">
 </p>
